@@ -1,7 +1,8 @@
 {
   "name": "curvas-brasileiras",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
