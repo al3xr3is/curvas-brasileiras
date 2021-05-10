@@ -2862,7 +2862,7 @@ export class GraficoComponent implements OnInit {
     }
   ]
 
-  public group = 'S'
+  public group = 'U'
 
   public p10Data = this.db.filter(({ sub }) => sub === `${this.group}`).map((db) => db.p10);
 
